@@ -1,11 +1,5 @@
-# AI_aided_CustomerService_Evaluation
-## Research Paper
-https://journalrrsite.com/index.php/Myjrr/article/view/27
+# Evaluating AI in Customer Service
+This project was a part of my role as a Research Fellow at the World Research Union, Kuala Lumpur, Malaysia in which I evaluated the performance of ChatGPT in the sphere of customer service and satisfaction by analyzing the prompts gathered through an independent research via a Google Form. After recording the performance of the GPT model for every prompt, I enhanced its performance using techniques like Named Entity Recognition (NER), sentiment analysis, and intent recognition to capture the crucial data as well as the sentiments of the customers. 
 
-### Abstract
-
-ChatGPT is a large language model with potential applications in natural language processing and conversational AI. We examine the usage of ChatGPT in customized customer support in this study. The objective would be to specifically look at how ChatGPT may improve consumer interactions with businesses. Data would be collected  from customer service interactions in a number of businesses to perform this research. The data will then be analyzed using ChatGPT to detect customer behavior and preferences trends. A ChatGPT-based model would be created for personalized customer support according to the results of this research. The results presented in this study might have far-reaching consequences for firms aiming to improve their customer services. Businesses may be able to give more personalized and efficient service to their clients by utilizing the potential of ChatGPT, resulting in greater customer satisfaction and loyalty.
-
-### Citing
-
-If you wish to cite this research paper, please use the BibTex provided
+## Note to Viewers
+Unfortunately, the code cannot be made public due to the inclusion of sensitive and private data of the customers. I am committed to making sure that the people who trusted me with their responses are done justice by keeping their information safe and secure. 
